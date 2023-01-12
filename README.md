@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+<div align="center">
+  
+ [website](kumbu.tech) • [linkedin](https://www.linkedin.com/in/kumbukanikamanga/)
+  
+</div>
+
 <!--
 **kumbu132/kumbu132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
