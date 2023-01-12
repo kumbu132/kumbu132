@@ -5,7 +5,7 @@
 
 
   
- [website](kumbu.tech) • [linkedin](https://www.linkedin.com/in/kumbukanikamanga/)
+ [website](https://kumbu.tech) • [linkedin](https://www.linkedin.com/in/kumbukanikamanga/)
   
 </div>
 
