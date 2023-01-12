@@ -1,7 +1,9 @@
-### Hi there 👋
-
-
 <div align="center">
+
+### Hi there! 👋
+
+
+
   
  [website](kumbu.tech) • [linkedin](https://www.linkedin.com/in/kumbukanikamanga/)
   
