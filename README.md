@@ -1,6 +1,6 @@
-<div align="center">
+<div align="center" style={width: "30px", display:"flex", justifyContent:"center"}>
 
-### Hi there! 👋
+<h3 style={textAlign:"center", width:"100%"}> Hey👋</h3>
 
 
 
